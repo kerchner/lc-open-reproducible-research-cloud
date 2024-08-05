@@ -12,6 +12,7 @@ This lesson builds upon the conceptual framework of [Reproducible Research Workf
 
 
 After following this lesson, learners will be able to:
+
 - explain the concept of cloud computing
 - describe three benefits of cloud computing in open and reproducible research
 - list at least three parameters that one may need to choose when creating an instance of a cloud computer
