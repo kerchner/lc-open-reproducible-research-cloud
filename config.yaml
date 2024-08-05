@@ -68,6 +68,7 @@ contact: 'kerchner@gwu.edu'
 # Order of episodes in your lesson
 episodes: 
 - introduction.md
+- cloud-computing.md
 
 # Information for Learners
 learners: 
