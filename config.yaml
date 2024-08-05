@@ -15,10 +15,11 @@
 carpentry: 'incubator'
 
 # Alt-text description of the lesson.
-carpentry_description: 'Lesson Description'
+carpentry_description: 'Academic libraries are relied upon to provide essential skills for quantitative researchers.  Librarians are increasingly seeking out conceptual understanding of open and reproducible research best practices.  But not all librarian skills necessarily overlap with skills needed by the dedicated researchers they support.  Librarians can massively benefit from gaining firsthand experience with certain new skills and best practices that researchers may turn to them to learn about. Firsthand experience can create a paradigm shift for librarians, enabling them to "speak from experience" when supporting researchers, and staging librarians for further acquisition of key researcher skills.
+This lesson builds upon the conceptual framework of Reproducible Research Workflows, which provides librarians with an understanding of reproducible research and its critical role in open science.  This sequel will engage librarians inspired by an enhanced understanding of reproducibility who are eager to personally experience a reproducible research workflow.'
 
 # Overall title for pages.
-title: 'Lesson Title' # FIXME
+title: 'Open and Reproducible Research Cloud Workflows: A Firsthand Experience for Librarians'
 
 # Date the lesson was created (YYYY-MM-DD, this is empty by default)
 created: ~ # FIXME
@@ -40,7 +41,7 @@ source: 'https://github.com/carpentries/workbench-template-md' # FIXME
 branch: 'main'
 
 # Who to contact if there are any issues
-contact: 'team@carpentries.org' # FIXME
+contact: 'kerchner@gwu.edu'
 
 # Navigation ------------------------------------------------
 #
