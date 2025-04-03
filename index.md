@@ -5,7 +5,7 @@ site: sandpaper::sandpaper_site
 
 Academic libraries are relied upon to provide essential skills for quantitative researchers.  Librarians are increasingly seeking out conceptual understanding of open and reproducible research best practices.  But not all librarian skills necessarily overlap with skills needed by the dedicated researchers they support.  Librarians can massively benefit from gaining firsthand experience with certain new skills and best practices that researchers may turn to them to learn about. Firsthand experience can create a paradigm shift for librarians, enabling them to "speak from experience" when supporting researchers, and staging librarians for further acquisition of key researcher skills.
 
-This lesson builds upon the conceptual framework of [Reproducible Research Workflows](https://ucla-imls-open-sci.info/reproducible-workflows/), which provides librarians with an understanding of reproducible research and its critical role in open science.  This sequel will engage librarians inspired by an enhanced understanding of reproducibility who are eager to personally experience a reproducible research workflow.
+This lesson builds upon the conceptual framework of [Reproducible Research Workflows](https://librarycarpentry.github.io/lc-reproducible-research/), which provides librarians with an understanding of reproducible research and its critical role in open science.  This sequel will engage librarians inspired by an enhanced understanding of reproducibility who are eager to personally experience a reproducible research workflow.
 
 
 ## Learning Objectives
