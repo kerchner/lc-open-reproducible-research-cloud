@@ -20,6 +20,32 @@ exercises: 2
 
 ## Introduction
 
+
+
+:::::::::::::::::::::::::::::::::::::::  challenge
+
+## Discussion
+
+With the person next to you, discuss:
+
+What are some of the skills that researchers need in order to use open and reproducible research workflows?
+
+What skills would librarians need in order to advise researchers?
+
+:::::::::::::::  solution
+
+## Solution
+
+Some common answers might be:
+
+- Blah
+
+  
+:::::::::::::::::::::::::
+
+
+::::::::::::::::::::::::::::::::::::::::::::::::::
+
 This is a lesson created via The Carpentries Workbench. It is written in
 [Pandoc-flavored Markdown](https://pandoc.org/MANUAL.txt) for static files and
 [R Markdown][r-markdown] for dynamic files that can render code into output. 
