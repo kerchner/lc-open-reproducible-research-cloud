@@ -1,22 +1,20 @@
-# This template CITATION.cff file was generated with cffinit.
-# Visit https://bit.ly/cffinit to replace its contents
-# with information about your lesson.
-# Remember to update this file periodically, 
-# ensuring that the author list and other fields remain accurate.
-
 cff-version: 1.2.0
-title: 'Open and Reproducible Research Cloud Workflows: A Firsthand Experience for Librarians'
-message: >-
-  Please cite this lesson using the information in this file
-  when you refer to it in publications, and/or if you
-  re-use, adapt, or expand on the content in your own
-  training material.
+message: "If you use this lesson, please cite it as below."
 type: dataset
+title: "Open and Reproducible Research Cloud Workflows: A Firsthand Experience for Librarians"
 authors:
-  - given-names: Daniel
-    family-names: Kerchner
-abstract: >-
-  FIXME Replace this with a short abstract describing the
-  lesson, e.g. its target audience and main intended
-  learning objectives.
+  - family-names: Kerchner
+    given-names: Daniel
+abstract: "This lesson provides librarians with firsthand experience in open and reproducible research workflows using cloud computing. It aims to shift librarians' perspectives by engaging them directly in a reproducible research workflow using command-line tools and cloud resources."
+keywords:
+  - reproducibility
+  - cloud
+  - workflow
+  - shell
+  - ssh
+  - rstudio
 license: CC-BY-4.0
+version: 1.0.0
+date-released: 2025-12-23
+repository-code: "https://github.com/kerchner/lc-open-reproducible-research-cloud"
+url: "https://kerchner.github.io/lc-open-reproducible-research-cloud/"
