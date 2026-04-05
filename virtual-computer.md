@@ -29,6 +29,19 @@ or whether they can share space on an existing virtual computer (for example, on
 Assuming they decide to create their own, they would might request one from their institution, or they might
 have an account with a commercial provider where they have full control to set up a virtual computer to suit their needs.
 
+What are some of the decisions a researcher might need to make when setting up or requesting a cloud computer?  
+
+- Memory
+- Storage
+- Operating system 
+- Processor speed
+- Internet bandwidth/speed
+- Number of instances
+- Should the instances be "plain" or should they be created from templates that have certain software already installed?
+
+Notice that many of these characteristics may be driven by the reasons that the researcher decided it was necessary, 
+or preferable, to use cloud computing in the first place.
+
 ## How would I log on to a virtual computer?
 
 Although it is possible to set up cloud computers with different operating systems such as Windows or MacOS,
