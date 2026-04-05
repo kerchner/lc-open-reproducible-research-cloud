@@ -101,7 +101,8 @@ and innovation.
 
 -   Institutional infrastructure (for example, institutional cluster
     computing)
--   Public/national research infrastructure (TODO: Examples)
+-   Public/national research infrastructure (Examples:  [CloudBank](https://www.cloudbank.org/) (funded by NSF),
+    [OSPool](https://osg-htc.org/services/ospool/) )
 -   Commercial services: Amazon Web Services, Microsoft Azure, Google
     Cloud
 -   Discipline-specific commercial services (TODO: Examples)
@@ -140,6 +141,24 @@ Review/define this concept here. Use Turing Way definitions.
 ### Scalability?
 
 TODO
+
+## Cloud computing tradeoffs
+
+::::::::::::::::::::::::::::::::::::: challenge
+
+### Discussion
+
+What might be some of the costs or reasons against using cloud computing?
+
+:::::::::::::::: solution
+
+- Using cloud computing may require a researcher to learn new, more advanced skills
+- Cost
+- Added complexity
+- Potential security concerns about where sensitive data may need to be located
+
+:::::::::::::::::::::::::
+:::::::::::::::::::::::::::::::::::::::::::::::
 
 ::::::::::::::::::::::::::::::::::::: keypoints
 
